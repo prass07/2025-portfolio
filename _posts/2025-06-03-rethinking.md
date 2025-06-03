@@ -2,8 +2,8 @@
 layout: post
 title: "Rethinking the 9 to 6 Mentality: It’s Not About the Hours"
 date: 2025-06-03
-subtitle: A fresh look at the 9 to 6 work mentality and how it can actually support personal and professional growth.
-background: '/img/posts/work-life.jpg
+subtitle: "A fresh look at the 9 to 6 work mentality and how it can actually support personal and professional growth."
+background: '/img/posts/work-life.jpg'
 ---
 
 # 💼 Rethinking the 9 to 6 Mentality: It’s Not About the Hours
