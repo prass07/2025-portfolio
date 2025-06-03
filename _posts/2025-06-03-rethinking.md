@@ -88,5 +88,5 @@ But if your work fuels your growth — and your evenings feed your dreams — th
 
 - [Atomic Habits by James Clear](https://jamesclear.com/atomic-habits)  
 - [Basecamp's Guide to Working Remotely](https://basecamp.com/books/remote)  
-- [Why Buffer Runs a 4-Day Workweek](https://buffer.com/resources/four-day-workweek-2023/)  
-- [Work-Life Integration vs Work-Life Balance (Harvard Business Review)](https://hbr.org/2014/03/work-life-balance-is-dead)
+- [Why Buffer Runs a 4-Day Workweek](https://buffer.com/resources/4-day-workweek-2021/)  
+- [Work-Life Integration vs Work-Life Balance (Harvard Business Review)](https://hbr.org/2021/01/work-life-balance-is-a-cycle-not-an-achievement)
