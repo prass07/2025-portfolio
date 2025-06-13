@@ -6,7 +6,7 @@ subtitle: "I wrote this for someone I used to know."
 background: '/img/posts/lettertomyex.jpg'
 ---
 
-#Subject: A Letter to My Ex
+# Subject: A Letter to My Ex
 
 **Dear Ex,**
 
