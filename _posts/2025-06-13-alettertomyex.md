@@ -56,7 +56,7 @@ With love,
 
 ## References & Inspirations
 
-- [Mark Manson on Breaking Bad Habits](https://markmanson.net/how-to-break-bad-habits) – Brutally honest and weirdly helpful.  
+- [Mark Manson on Breaking Bad Habits](https://markmanson.net/habits#:~:text=Yeah%2C%20you%20can%20use%20them,learn%20my%20cues%20for%20snacking.) – Brutally honest and weirdly helpful.  
 - [Atomic Habits by James Clear](https://jamesclear.com/atomic-habits) – The book that made me rethink how change actually works.  
 - [Shutter Island (IMDb)](https://www.imdb.com/title/tt1130884/) – If you know, you know.  
-- [The Psychology of Self-Sabotage](https://www.psychologytoday.com/us/blog/compass-rose/202202/why-we-self-sabotage) – A little too accurate.
+- [The Psychology of Self-Sabotage](https://www.psychologytoday.com/us/basics/self-sabotage) – A little too accurate.
